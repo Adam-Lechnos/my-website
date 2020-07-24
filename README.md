@@ -4,10 +4,4 @@ This is a really awesome website
 
 Edit on example branch.
 
-Second edit.
-
-Third
-
-Fourth
-
-Firth
+Editing on update-readme branch
